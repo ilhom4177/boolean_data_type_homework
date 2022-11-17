@@ -6,4 +6,6 @@ def main(b):
         bool
     """
     # Write your code here
-    return 
+
+    return b >= -b
+print(main(8))
