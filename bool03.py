@@ -7,5 +7,5 @@ def main(b):
     """
     # Write your code here
 
-    return b <= -b
-print(main(-3))
+    return b > 0
+print(main(8))
