@@ -7,5 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return a%5 == 0
+    
+    return a%2 == 0
 print(main(5))
